@@ -1,0 +1,10 @@
+D:\my projects\Self Learning\TCPserver\TCPserver\bin\Debug\TCPserver.exe.config
+D:\my projects\Self Learning\TCPserver\TCPserver\bin\Debug\TCPserver.exe
+D:\my projects\Self Learning\TCPserver\TCPserver\bin\Debug\TCPserver.pdb
+D:\my projects\Self Learning\TCPserver\TCPserver\obj\Debug\TCPserver.csprojAssemblyReference.cache
+D:\my projects\Self Learning\TCPserver\TCPserver\obj\Debug\TCPserver.Form1.resources
+D:\my projects\Self Learning\TCPserver\TCPserver\obj\Debug\TCPserver.Properties.Resources.resources
+D:\my projects\Self Learning\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.GenerateResource.cache
+D:\my projects\Self Learning\TCPserver\TCPserver\obj\Debug\TCPserver.csproj.CoreCompileInputs.cache
+D:\my projects\Self Learning\TCPserver\TCPserver\obj\Debug\TCPserver.exe
+D:\my projects\Self Learning\TCPserver\TCPserver\obj\Debug\TCPserver.pdb
